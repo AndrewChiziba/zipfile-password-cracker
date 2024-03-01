@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="test-archives">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/aes_with_extra_data_record_and_corrupt_mac.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/remove_file_with_similar_file_names.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/zipWithLinkToDirAndFolder.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/dirs_with_extended_local_file_headers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/zip64_with_only_file_sizes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/jar-dir-lfh-and-fh-entry-size-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/entry_with_checksum_mismatch.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/jar-dir-fh-entry-size-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/valid_empty_zip_file.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/zip_with_duplicate_entries.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/store_compression_made_with_v1.3.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/archive-with-no-dir-entries.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/testfile_with_chinese_filename_by_7zip.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/end_of_cen_dir_not_at_expected_position.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/missing_exended_local_file_header.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/strong_encrypted.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/archive_with_invalid_zip64_headers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/zip_with_different_passwords.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/corrupt_extra_data_record_length.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/zip_with_corrupt_comment_length.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/invalid_extra_data_record.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/content_in_entry_which_is_directory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/cen_dir_entries_diff_order_as_local_entries.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Zip4j/src/test/resources/test-archives/invalid_zip_file_size_less_than_22kb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

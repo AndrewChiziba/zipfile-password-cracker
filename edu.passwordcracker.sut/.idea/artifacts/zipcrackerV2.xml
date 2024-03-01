@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zipcrackerV2">
+    <output-path>$PROJECT_DIR$/out/artifacts/zipcrackerV2</output-path>
+    <root id="archive" name="zipcrackerV2.jar">
+      <element id="module-output" name="edu.passwordcracker.sut" />
+      <element id="module-output" name="main" />
+    </root>
+  </artifact>
+</component>
